@@ -76,7 +76,7 @@ print("RMSE= ",rmse)
 ![aiml exp2 2](https://github.com/Rajeshanbu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118924713/345b1045-a2b4-4b4e-9945-0986a18926ce)
 ## Tailvalues:
 ![aiml exp2 3](https://github.com/Rajeshanbu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118924713/a60a945b-5202-4793-88fe-e38b4961d0fc)
-##X and Y values:
+## X and Y values:
 ![aiml exp2 4](https://github.com/Rajeshanbu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118924713/c2f170e9-eb13-4751-adc2-6902066cdeda)
 ## Prediction values of X and Y:
 ![aiml exp2 5](https://github.com/Rajeshanbu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118924713/f6272467-aacc-4dd5-956c-0ddea06fcf37)
